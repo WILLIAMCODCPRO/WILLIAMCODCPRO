@@ -1,7 +1,7 @@
 ✨
 
 <h1 align="center">Hola 👋, soy William</h1>
-<h3 align="center">Desarrollador Backend en formación | Apasionado por la tecnología</h3>
+<h3 align="center">Desarrollador Backend en formación</h3>
 
 <p align="justify">
 Soy estudiante de programación enfocado en el <strong>desarrollo backend</strong>, en constante aprendizaje para crear aplicaciones <strong>sólidas, escalables y eficientes</strong>.  
