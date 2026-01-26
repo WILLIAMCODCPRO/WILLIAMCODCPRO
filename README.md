@@ -1,16 +1,69 @@
 ✨
 
-<h1 align="center">Hola 👋, yo soy William</h1>
-<h3 align="justify">Soy estudiante de programación enfocado en el desarrollo backend, en constante formación para crear aplicaciones sólidas, escalables y funcionales. He desarrollado una base técnica en HTML, CSS, JavaScript y Python, lo que me permite comprender y conectar eficazmente la lógica del frontend con el funcionamiento del servidor. Cuento con experiencia utilizando GitHub para control de versiones y trabajo colaborativo, así como en la gestión de bases de datos relacionales y no relacionales mediante MySQL y MongoDB, garantizando un manejo eficiente de la información. Actualmente, estoy profundizando mis conocimientos en Java junto con Spring Boot, fortaleciendo mi perfil como desarrollador backend. Me caracterizo por un aprendizaje continuo, una actitud proactiva y una fuerte capacidad de adaptación. Disfruto el trabajo en equipo, abordo los desafíos con pensamiento crítico y resiliencia, y mantengo siempre el compromiso de mejorar mis habilidades técnicas y profesionale
-</h3>
+<h1 align="center">Hola 👋, soy William</h1>
+<h3 align="center">Desarrollador Backend en formación | Apasionado por la tecnología</h3>
 
+<p align="justify">
+Soy estudiante de programación enfocado en el <strong>desarrollo backend</strong>, en constante aprendizaje para crear aplicaciones <strong>sólidas, escalables y eficientes</strong>.  
+Cuento con bases técnicas en <strong>HTML, CSS, JavaScript y Python</strong>, lo que me permite comprender la integración entre el frontend y la lógica del servidor.
+</p>
 
+<p align="justify">
+Tengo experiencia utilizando <strong>Git y GitHub</strong> para control de versiones y trabajo colaborativo, así como en la gestión de bases de datos <strong>relacionales y no relacionales</strong> con <strong>MySQL y MongoDB</strong>.  
+Actualmente, estoy profundizando mis conocimientos en <strong>Java y Spring Boot</strong>, fortaleciendo mi perfil como desarrollador backend.
+</p>
 
-<h3 align="left" color="blue">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="justify">
+Me caracterizo por el <strong>aprendizaje continuo</strong>, una actitud <strong>proactiva</strong> y una gran capacidad de <strong>adaptación</strong>. Disfruto el trabajo en equipo, enfrento los desafíos con <strong>pensamiento crítico y resiliencia</strong>, y mantengo un compromiso constante con la mejora de mis habilidades técnicas y profesionales.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamcodcpro&show_icons=true&locale=en&layout=compact" alt="williamcodcpro" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamcodcpro&show_icons=true&locale=en" alt="williamcodcpro" /></p>
+<h3 align="left">🛠️ Lenguajes y Herramientas</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamcodcpro&" alt="williamcodcpro" /></p>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+<h3>📊 Estadísticas de GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamcodcpro&show_icons=true&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williamcodcpro&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamcodcpro&theme=tokyonight"/>
+</p>
+
