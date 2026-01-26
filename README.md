@@ -1,9 +1,7 @@
 ✨
 
 <h1 align="center">Hola 👋, yo soy William</h1>
-<h3 align="justify">Soy estudiante de programación enfocado en el desarrollo backend, en constante formación para crear aplicaciones sólidas, escalables y funcionales. He desarrollado una base técnica en HTML, CSS, JavaScript y Python, lo que me permite comprender y conectar eficazmente la lógica del frontend con el funcionamiento del servidor.
-
-Cuento con experiencia utilizando GitHub para control de versiones y trabajo colaborativo, así como en la gestión de bases de datos relacionales y no relacionales mediante MySQL y MongoDB, garantizando un manejo eficiente de la información. Actualmente, estoy profundizando mis conocimientos en Java junto con Spring Boot, fortaleciendo mi perfil como desarrollador backend.
+<h3 align="justify">Soy estudiante de programación enfocado en el desarrollo backend, en constante formación para crear aplicaciones sólidas, escalables y funcionales. He desarrollado una base técnica en HTML, CSS, JavaScript y Python, lo que me permite comprender y conectar eficazmente la lógica del frontend con el funcionamiento del servidor. Cuento con experiencia utilizando GitHub para control de versiones y trabajo colaborativo, así como en la gestión de bases de datos relacionales y no relacionales mediante MySQL y MongoDB, garantizando un manejo eficiente de la información. Actualmente, estoy profundizando mis conocimientos en Java junto con Spring Boot, fortaleciendo mi perfil como desarrollador backend.
 
 Me caracterizo por un aprendizaje continuo, una actitud proactiva y una fuerte capacidad de adaptación. Disfruto el trabajo en equipo, abordo los desafíos con pensamiento crítico y resiliencia, y mantengo siempre el compromiso de mejorar mis habilidades técnicas y profesionale
 </h3>
