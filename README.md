@@ -51,6 +51,15 @@ Me caracterizo por el <strong>aprendizaje continuo</strong>, una actitud <strong
   </a>
 </p>
 
+<h3 align="left">📫 Conóceme</h3>
+
+<p align="left">
+  📧 Email: <a href="mailto:williamcodcpro@gmail.com">Mi correo</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/william-santiago-pabon-ardila-834992399/" target="_blank">Mi LinkendIn</a><br>
+  🌐 Portafolio: <a href="https://williamcodcpro.github.io/Portafolio_PabonWilliam/" target="_blank">Mi Portafolio</a>
+</p>
+
+
 ---
 
 <h3>📊 Estadísticas de GitHub</h3>
