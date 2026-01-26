@@ -63,7 +63,5 @@ Me caracterizo por el <strong>aprendizaje continuo</strong>, una actitud <strong
   <img src="https://github-readme-stats.vercel.app/api?username=williamcodcpro&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamcodcpro&theme=tokyonight"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamcodcpro&" alt="williamcodcpro" /></p>
 
