@@ -72,13 +72,10 @@ Me caracterizo por el <strong>aprendizaje continuo</strong>, una actitud <strong
 
 <h3>📊 Estadísticas de GitHub</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamcodcpro&show_icons=true&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=WILLIAMCODCPRO&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=WILLIAMCODCPRO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WILLIAMCODCPRO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamcodcpro&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamcodcpro&" alt="williamcodcpro" /></p>
+
 
